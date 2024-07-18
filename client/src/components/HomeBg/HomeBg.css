@@ -9,11 +9,11 @@
 
 .vintage-pc-div{
     width: 22vw;
-    height: 35vh;
+    height: 25vh;
     display: flex;
     justify-content: center;
     margin-left: 40vw;
-   
+    margin-top: 10%;
 
 }
 

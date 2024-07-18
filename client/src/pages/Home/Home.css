@@ -1,4 +1,4 @@
-.primary-button {
+.home button {
     color: rgb(0, 0, 0);
     text-transform: uppercase;
     font-size: 15px;
@@ -7,11 +7,10 @@
     border-radius: 30px;
     border: 1px solid black;
     margin-top: 35px;
-    cursor: pointer;
 
 }
 
-.primary-button:hover {
+.home button:hover {
     background: linear-gradient(260deg, rgb(0, 0, 0), rgb(79, 76, 76));
     color: white;
     cursor: pointer;
